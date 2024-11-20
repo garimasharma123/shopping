@@ -1,2 +1,7 @@
-# shopping
-🛒 Shopping Website A fully functional shopping website designed to deliver a seamless online shopping experience. This project integrates front-end, back-end, and database technologies to provide features like product browsing, cart management, user authentication, and order processing.
+# online-shopping-with-advanced-admin-page
+Updated version
+
+
+online shopping system with both admin and user layouts.
+
+admin login details  Email=admin@gmail.com and Password=123456789.
